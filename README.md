@@ -7,7 +7,7 @@ capture, target recognition, etc are combined with the actual needs of persons t
 
 # REQUIREMENTS SPECIFICATIONS
   # HARDWARE REQUIREMENTS:
-System- Ubuntu 18.64 lts
+System- Ubuntu 18.64 lts                                                                                                                                                   
 Speed- 2.4GHZ
 Hard disk - 40GB
 Ram- 4GB
