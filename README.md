@@ -6,12 +6,12 @@
   # HARDWARE REQUIREMENTS:
 System- Ubuntu 18.64 lts                                                                                                                                                   
 Speed- 2.4GHZ                                                                                                                                                             
-Hard disk - 40GB                                                                                                                                                           Ram- 4GB
+Hard disk - 40GB                                                                                                                                                           
+ Ram- 4GB                                                                                                                                                                              
 
   # SOFTWARE REQUIREMENTS:
-Coding Languages - Python,HTML,CSS                                                                                                                                           
-IDE- Visual Studio Code                                                                                                                                                      
-Jupyter Notebook                                                                                                                                                             
+Coding Languages - Python,HTML,CSS                                                                                                                                         
+IDE- Visual Studio Code                                                                                                                                                    
+Jupyter Notebook                                                                                                                                                           
 Pycharm                                                                                                                                                                
-
 Server-Flask Server
