@@ -8,13 +8,11 @@ capture, target recognition, etc are combined with the actual needs of persons t
 # REQUIREMENTS SPECIFICATIONS
   # HARDWARE REQUIREMENTS:
 System- Ubuntu 18.64 lts                                                                                                                                                   
-Speed- 2.4GHZ
-Hard disk - 40GB
-Ram- 4GB
+Speed- 2.4GHZ                                                                                                                                                                
+Hard disk - 40GB                                                                                                                                                             Ram- 4GB
 
   # SOFTWARE REQUIREMENTS:
-Coding Language - Python,HTML,CSS
-IDE- Visual Studio Code
-Jupyter Notebook
-Pycharm
-Server-Flask Server
+Coding Languages - Python,HTML,CSS                                                                                                                                           
+IDE- Visual Studio Code                                                                                                                                                      
+Jupyter Notebook                                                                                                                                                             
+Pycharm                                                                                                                                                                      Server-Flask Server
